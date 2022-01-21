@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header{
+    width: 100%;
+    background-image: url("../img/bg.png");
+    background-position: 100%;
+    background-size: cover;
+}
+
+.btn-store {
+    color: #777777;
+    min-width: 254px;
+    padding: 12px 20px !important;
+    border-color: #dddddd !important;
+  }
+   
+  .btn-store {
+    color: #ffffff !important;
+    background-color: #168eea;
+    border-color: #168eea !important;
+  }
+  
+  .btn-store .btn-label, 
+  .btn-store .btn-caption {
+    display: block;
+    text-align: left;
+    line-height: 1;
+  }
+  
+  .btn-store .btn-caption {
+    font-size: 24px;
+  }
+
+
+  .simpleCircle [class*="bi bi-"] {
+    
+    background-color: #333;
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    margin: auto 3px;
+    width: 40px;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+.social [class*="bi bi-facebook"] {
+  color: #3b5998;
+}
+
+.social [class*="bi bi-instagram"] {
+  color: #cd486b;
+}
+
+.social [class*="bi bi-twitter"] {
+  color: #4099FF;
+}
+
+.social [class*="bi bi-linkedin"] {
+  color: #2867B2;;
+}
